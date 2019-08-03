@@ -1,0 +1,20 @@
+{
+  "name": "django-node-bladerunner",
+  "version": "1.0.0",
+  "description": "A runner for Django/Python based applications",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/vsergeyev/django-node-bladerunner",
+  "keywords": [
+    "runner",
+    "django",
+    "python"
+  ],
+  "author": "V. Sergeyev",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "electron": "^6.0.0"
+  }
+}
